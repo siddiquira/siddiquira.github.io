@@ -11,6 +11,13 @@ Something will appear here eventually.
 
 #### Recurrent neural networks with diverse intrinsic timescales
 
+<figure style="text-align: center; max-width: 100%;">
+  <img src="/imgs/beiran_2021.png" style="width: 100%; height: auto; max-width: 1200px;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px; line-height: 1.4;">
+    <em>Reproduced from Beiran et. al., 2021.</em>
+  </figcaption>
+</figure>
+
 Something will also appear here eventually.
 
 #### Instability driven by partial relaxation of zero-row-sum constraints in random networks
