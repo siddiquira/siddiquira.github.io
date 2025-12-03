@@ -9,6 +9,7 @@ These are some selected research projects that have resulted in something tangib
 
 Something will appear here eventually.
 
+
 #### Recurrent neural networks with diverse intrinsic timescales
 
 <figure style="text-align: center; max-width: 100%; margin: 0 auto">
@@ -19,6 +20,7 @@ Something will appear here eventually.
 </figure>
 
 Something will also appear here eventually.
+
 
 #### Instability driven by partial relaxation of zero-row-sum constraints in random networks
 
@@ -33,8 +35,7 @@ Something will also appear here eventually.
   </figcaption>
 </figure>
 
-<div style="margin-top: 20px; max-width: 800px; margin-left: auto; margin-right: auto; line-height: 1.6;">
-  Something will also appear here eventually.<br><br>
-  The <em>Eigenvalue Value (in Neuroscience)</em> by Georgia Christodoulou and Tim Vogels helped me with this project and is a good read, but I had trouble finding it when I recently looked for it again so 
-  <a href="/pdfs/christodoulou_vogels_2022.pdf">here</a> it is.
-</div>
+Something will also appear here eventually.
+
+The <em>Eigenvalue Value (in Neuroscience)</em> by Georgia Christodoulou and Tim Vogels helped me with this project and is a good read, but I had trouble finding it when I recently looked for it again so 
+  [here](/pdfs/christodoulou_vogels_2022.pdf) it is.
