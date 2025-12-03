@@ -13,7 +13,7 @@ Something will appear here eventually.
 #### Recurrent neural networks with diverse intrinsic timescales
 
 <figure>
-  <img src="/imgs/beiran_2021.jpg" style="width: 70%; height: auto;">
+  <img src="/imgs/beiran_2021.jpg" style="width: 70%; height: auto; display: block; margin: 0 auto;">
   <figcaption>
     <em>Reproduced from Beiran et al., 2021.</em>
   </figcaption>
