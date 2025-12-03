@@ -9,7 +9,7 @@ These are some selected research projects that have resulted in something tangib
 #### Machine learning analyses of optogenetic perturbations in mouse V1
 
 <figure>
-  <img src="/imgs/mouse_stim_cartoon.png" style="width: 80%; height: auto; display: block; margin: 0 auto;">
+  <img src="/imgs/mouse_stim_cartoon.png" style="width: 100%; height: auto; display: block; margin: 0 auto;">
   <figcaption>
     <em>Two-photon calcium imaging with targeted optogenetic perturbations in mouse V1. (Left) Schematic of holographic optogenetic stimulation of selected neurons (red) while recording population activity. (Middle) Example calcium imaging field of view showing identified neurons (colored circles). (Right, two panels) Neurons grouped by different ensemble sizes; colors correspond to a given ensemble.</em>
   </figcaption>
