@@ -12,10 +12,10 @@ Something will appear here eventually.
 
 #### Recurrent neural networks with diverse intrinsic timescales
 
-<figure style="text-align: center; max-width: 100%; margin: 0 auto">
-  <img src="/imgs/beiran_2021.jpg" style="width: 80%; height: auto; max-width: 1200px;">
+<figure style="width: 80%; max-width: 1200px; margin: 0 auto;">
+  <img src="/imgs/beiran_2021.jpg" style="width: 100%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 8px; line-height: 1.4;">
-    <em>Reproduced from Beiran et. al., 2021.</em>
+    <em>Reproduced from Beiran et al., 2021.</em>
   </figcaption>
 </figure>
 
