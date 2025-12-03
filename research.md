@@ -8,6 +8,13 @@ These are some selected research projects that have resulted in something tangib
 
 #### Machine learning analyses of optogenetic perturbations in mouse V1
 
+<figure>
+  <img src="/imgs/mouse_stim_cartoon.jpg" style="width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption>
+    <em>Reproduced from Beiran et al., 2021.</em>
+  </figcaption>
+</figure>
+
 Something will appear here eventually.
 
 #### Recurrent neural networks with diverse intrinsic timescales
