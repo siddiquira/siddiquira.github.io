@@ -7,6 +7,7 @@ These are some selected research projects that have resulted in something tangib
 
 #### Machine learning analyses of optogenetic perturbations in mouse V1
 
+
 Something will appear here eventually.
 
 
@@ -18,6 +19,7 @@ Something will appear here eventually.
     <em>Reproduced from Beiran et al., 2021.</em>
   </figcaption>
 </figure>
+
 
 Something will also appear here eventually.
 
@@ -35,7 +37,9 @@ Something will also appear here eventually.
   </figcaption>
 </figure>
 
+
 Something will also appear here eventually.
+
 
 The <em>Eigenvalue Value (in Neuroscience)</em> by Georgia Christodoulou and Tim Vogels helped me with this project and is a good read, but I had trouble finding it when I recently looked for it again so 
   [here](/pdfs/christodoulou_vogels_2022.pdf) it is.
