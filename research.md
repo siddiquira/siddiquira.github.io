@@ -5,20 +5,24 @@ permalink: /research/
 ---
 These are some selected research projects that have resulted in something tangible and/or that I really enjoyed.
 
-#### Machine learning analyses of optogenetic perturbations in mouse V1
+#### __Machine learning analyses of optogenetic perturbations in mouse V1__
 
 Something will appear here eventually.
 
-#### Recurrent neural networks with diverse intrinsic timescales
+#### __Recurrent neural networks with diverse intrinsic timescales__
 
 Something will also appear here eventually.
 
-#### Instability driven by partial relaxation of zero-row-sum constraints in random networks
+#### __Instability driven by partial relaxation of zero-row-sum constraints in random networks__
 
 <figure style="text-align: center; max-width: 100%;">
   <img src="/imgs/rajan_abbot_2006_fig1.png" style="width: 100%; height: auto; max-width: 1200px;">
-  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
-    Figure 1 from Rajan & Abbot 2006.
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px; line-height: 1.4;">
+    <strong>Figure 1.</strong> Numerical results for the distribution of eigenvalues in the complex plane for <strong>N = 1000</strong>.  
+    (a) If excitatory and inhibitory elements are drawn from distributions with different means but the same variance, a few eigenvalues lie outside the unit circle.  
+    (b) When every row of the matrix individually sums to zero, the eigenvalues lie inside the unit circle.  
+    <br><br>
+    <em>Reproduced from Rajan & Abbott, 2006.</em>
   </figcaption>
 </figure>
 
