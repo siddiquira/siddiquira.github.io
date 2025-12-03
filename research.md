@@ -5,15 +5,15 @@ permalink: /research/
 ---
 These are some selected research projects that have resulted in something tangible and/or that I really enjoyed.
 
-# __Machine learning analyses of optogenetic perturbations in mouse V1__ 
+# Machine learning analyses of optogenetic perturbations in mouse V1
 
 Something will appear here eventually.
 
-# __Recurrent neural networks with diverse intrinsic timescales__ 
+# Recurrent neural networks with diverse intrinsic timescales
 
 Something will also appear here eventually.
 
-# __Instability driven by partial relaxation of zero-row-sum constraints in random networks__ 
+# Instability driven by partial relaxation of zero-row-sum constraints in random networks
 
 <table>
   <tr>
