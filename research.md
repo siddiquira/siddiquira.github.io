@@ -8,6 +8,13 @@ These are some selected research projects that have resulted in something tangib
 
 #### Machine learning analyses of optogenetic perturbations in mouse V1
 
+<figure>
+  <img src="/imgs/feature_removal_plot_e.png" style="width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figcaption>
+    <em>F1 score as a function of the percentage of the highest SHAP features removed for ensemble sizes of 1, 2, 4, and 8 for a representative mouse. Black dashed lines are fitted exponential curves. </em>
+  </figcaption>
+</figure>
+
 Something will appear here eventually.
 
 #### Recurrent neural networks with diverse intrinsic timescales
@@ -24,7 +31,7 @@ Something will also appear here eventually.
 #### Instability driven by partial relaxation of zero-row-sum constraints in random networks
 
 <figure>
-  <img src="/imgs/rajan_abbot_2006_fig1.png" style="width: 100%; height: auto;">
+  <img src="/imgs/rajan_abbot_2006_fig1.png" style="width: 90%; height: auto; display: block; margin: 0 auto;">
   <figcaption>
     Numerical results for the distribution of eigenvalues in the complex plane for N = 1000.  
     (a) If excitatory and inhibitory elements are drawn from distributions with different means but the same variance, a few eigenvalues lie outside the unit circle.  
