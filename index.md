@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: About
 ---
 I'm currently a postbaccalaureate Intramural Research Training Award (IRTA) fellow in the Section on Critical Brain Dynamics led by [Dietmar Plenz](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/dietmar-plenz) where I've been applying machine learning methods to analyze two-photon calcium imaging and optogenetics data. 
