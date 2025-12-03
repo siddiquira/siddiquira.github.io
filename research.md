@@ -8,13 +8,6 @@ These are some selected research projects that have resulted in something tangib
 
 #### Machine learning analyses of optogenetic perturbations in mouse V1
 
-<figure>
-  <img src="/imgs/feature_removal_plot_e.png" style="width: 80%; height: auto; display: block; margin: 0 auto;">
-  <figcaption>
-    <em>F1 score as a function of the percentage of the highest SHAP features removed for ensemble sizes of 1, 2, 4, and 8 for a representative mouse. Black dashed lines are fitted exponential curves. </em>
-  </figcaption>
-</figure>
-
 Something will appear here eventually.
 
 #### Recurrent neural networks with diverse intrinsic timescales
