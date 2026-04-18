@@ -5,10 +5,11 @@
 layout: page
 title: About Me
 ---
-I'm an incoming PhD Student in Quantitative and Computational Biosciences at Baylor College of Medicine.
 
-Previously, I was a postbaccalaureate Intramural Research Training Award (IRTA) researcher at the Section on Critical Brain Dynamics, led by Dr. Dietmar Plenz at the National Institute of Mental Health (NIMH). I also worked closely with the Machine Learning Core and Unit on the Neural Computations in Learning at NIMH.
+I am an incoming PhD student in Quantitative and Computational Biosciences at Baylor College of Medicine.
 
-My projects covered network effects of single and multi-neuron optogenetic perturbations in visual cortex, neural representations of reward in hippocampus and orbitofrontal cortex during decision-making, and how initializing with heterogeneous time constants can improve training for recurrent neural networks.
+Previously, I was a postbaccalaureate Intramural Research Training Award (IRTA) fellow in the Section on Critical Brain Dynamics, led by Dr. [Dietmar Plenz](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/dietmar-plenz) at the National Institute of Mental Health (NIMH). I also worked closely with the [Machine Learning Core](https://cmn.nimh.nih.gov/mlt) and the Unit on Neural Computations in Learning, led by Dr. [Angela Langdon](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/angela-langdon-phd) at NIMH.
 
-Contact: siddiquira [at] gmail [dot] com
+My past research spanned network effects of single- and multi-neuron optogenetic perturbations in visual cortex, neural representations of reward in hippocampus and orbitofrontal cortex during decision-making, and how initializing with heterogeneous time constants can improve training in recurrent neural networks.
+
+Email: raiahmsid [at] gmail [dot] com
