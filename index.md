@@ -12,4 +12,5 @@ Previously, I was a postbaccalaureate Intramural Research Training Award (IRTA) 
 
 My past research spanned network effects of single- and multi-neuron optogenetic perturbations in visual cortex, neural representations of reward in hippocampus and orbitofrontal cortex during decision-making, and how initializing with heterogeneous time constants can improve training in recurrent neural networks.
 
+
 Email: raiahmsid [at] gmail [dot] com
